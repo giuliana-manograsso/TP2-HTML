@@ -1,0 +1,18 @@
+h1 {
+color: rgb(19, 121, 116);
+}
+p, li {
+color: rgb(8, 8, 8);
+}
+h2{
+    font-size: 14px;
+}
+h2, h3{
+font-family: "Verdana";
+}
+p {
+font-family: "Verdana";
+}
+h2{
+    text-decoration: rgb(216, 96, 170);
+}
